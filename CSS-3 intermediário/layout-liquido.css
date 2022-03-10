@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0;}
+
+body{font-family: "Trebuchet Ms", Helvetica, sans-serif; background: #E0FFFF;color: darkblue;}
+
+#area{width: 100%; margin: 0 auto; min-width: 720px; max-width: 1920px;}
+
+#logo{text-align: center; height: 100px;line-height: 100px; background: #2F4F4F;}
+
+#logo h1 {color: #fff;}
+
+#esquerdo{width: 20%; float: left;margin-top: 5px;}
+
+#centro{width: 77%;float: right;padding: 5px;}
+
+#rodape{clear: both; text-align: center; heigth: 50px; line-height: 50px; background: #2F4F4F; color: white;}
+
+#principal{width: 70%; float: left;padding: 5px;}
+
+#direito{width: 23%;float: right;padding: 5px;}
+
+h2{color: darkblue; padding-bottom: 15px;}
+
+#esquerdo li a:hover{background: #2F4F4F;color: white;}
+
+#esquerdo ul{list-style: none;}
+
+#esquerdo li a {text-decoration: none;display: block; color: darkblue; height: 50px;line-height: 50px; text-align: center;}
+
+#centro img{width: 250px; border-style: double; border-color: #2F4F4F;}
+
+p{margin-top: 10px;}

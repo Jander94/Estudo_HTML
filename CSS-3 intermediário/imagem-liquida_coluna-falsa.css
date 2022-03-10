@@ -1,0 +1,70 @@
+                    /* Layout Liquido e Imagens Líquidas*/
+/*
+*{margin: 0; padding: 0;}
+
+body{font-family: "Trebuchet Ms", Helvetica, sans-serif;color: darkblue;}
+
+#area{width: 100%; margin: 0 auto; min-width: 720px; max-width: 1920px;}
+
+#logo{text-align: center; height: 200px;line-height: 200px; background: #225992 url(imagens_liquidas/cabecalho2.jpg) no-repeat center;}
+
+#esquerdo{width: 20%; float: left;margin-top: 5px;background: lightgray;}
+
+#centro{width: 77%;float: right;padding: 5px;}
+
+#rodape{clear: both; text-align: center; height: 50px; line-height: 50px;background: lightgray;; color: white;}
+
+#principal{width: 70%; float: left;padding: 5px;}
+
+#direito{width: 23%;float: right;padding: 5px;background: lightgray;}
+
+h2{color: darkblue; margin: 5px;}
+
+#logo h1 {color: #fff;}
+
+#esquerdo li a:hover{background: #2F4F4F;color: white;}
+
+#esquerdo ul{list-style: none;}
+
+#esquerdo li a {text-decoration: none;display: block; color: darkblue; height: 30px;line-height: 30px; text-align: center;}
+
+p{margin-top: 10px;}
+
+img.imagem-noticia{width: 94%;padding:2%; max-width: 720px;}*/
+
+
+                                    /* Layout Fixo e Coluna Falsa*/
+
+*{margin: 0; padding: 0;}
+
+body{font-family: "Trebuchet Ms", Helvetica, sans-serif;color: darkblue;}
+
+#area{width: 960px; margin: 0 auto; min-width: 720px; max-width: 1920px;background: #fff url(imagens_liquidas/coluna.png) repeat-y top left;}
+
+#logo{text-align: center; height: 200px;line-height: 200px; background: #225992 url(imagens_liquidas/cabecalho2.jpg) no-repeat center;}
+
+#esquerdo{width: 20%; float: left;margin-top: 5px;}
+
+#centro{width: 75%;float: right;padding: 5px;}
+
+#rodape{clear: both; text-align: center; height: 50px; line-height: 50px;background: lightgray;; color: white;}
+
+#principal{width: 70%; float: left;padding: 5px;}
+
+#direito{width: 23%;float: right;padding: 5px;background: lightgray;}
+
+h2{color: darkblue; margin: 5px;}
+
+#logo h1 {color: #fff;}
+
+#esquerdo li a:hover{background: #2F4F4F;color: white;}
+
+#esquerdo ul{list-style: none;}
+
+#esquerdo li a {text-decoration: none;display: block; color: darkblue; height: 30px;line-height: 30px; text-align: center;}
+
+p{margin-top: 10px;}
+
+img.imagem-noticia{width: 94%;padding:2%; max-width: 720px;}
+
+

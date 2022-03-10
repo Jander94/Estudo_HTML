@@ -1,0 +1,13 @@
+body{font-family: 'Trebuchet Ms',Helvetica,sans-serif;}
+
+table{width: 50%;border-bottom: 2px solid brown;border-collapse: collapse;}
+
+td, tr{padding: 5px;}
+
+th{border-bottom: 2px solid white;text-align: left; text-transform: uppercase;letter-spacing: 0.1em;padding: 5px;background: rgb(221, 127, 40);color: white;height: 30px;}
+
+.numero{text-align: right;}
+
+tr:hover{background: chocolate;cursor: pointer;}
+
+.alternado{background: rgb(240, 228, 220);}

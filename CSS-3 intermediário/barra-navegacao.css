@@ -1,0 +1,54 @@
+                        /*Criando a barra navegação vertical*/
+
+    /* <---- Apague esse comentário para utilizar o código
+
+ul{margin: 0;padding: 0; list-style-type: none;}
+
+ul a{
+    width: 200px; height: 40px; display: block;
+    background: #f7b600 url(imagens_BN/menu.png) no-repeat;
+    color: #000; text-decoration: none;
+    text-indent: 40px;line-height: 40px;}
+a:hover{background-position: right bottom;background-color: #f99200; color: #fff;}
+
+/*O background-position foi utilizado neste caso para movimentar a imagem
+quanto o mouse passar sobre o link. a imagem tem 400px, por isso defini
+o width com 200, e quando o mouse passar sobre, a imagem será movimentada
+para a direita, onde estão os outros 200px.*/
+
+    /* <---- Apague esse comentário para utilizar o código
+
+#home #naveg-left .home a,
+#sobre #naveg-left .sobre a,
+#jogos #naveg-left .jogos a,
+#entretenimento #naveg-left .entretenimento a,
+#contato #naveg-left .contato a
+{background-position: right bottom;background-color: #f99200; color: #fff;}
+
+/*este código é para que na navegação vertical, fique marcada a pagina
+em que o usuário está.*/
+
+
+                    /*Criando a barra navegação Horizontal*/
+
+ul {margin: 0; padding: 0; list-style: none;
+width: 583; background: #159cb0 url(imagens_BN/fundo-horizontal.png) repeat-x; float: left;}
+
+ul li {float: left;}
+
+ul a {display: block; padding: 0 2em; line-height: 2.3em; text-decoration: none;
+color: #fff;background: url(imagens_BN/divisor.png) repeat-y;}
+
+ul .primeiro a{background: none;}
+
+ul a:hover{color: #085662; background: #44cade;}
+
+#home #naveg-left .home a,
+#sobre #naveg-left .sobre a,
+#jogos #naveg-left .jogos a,
+#entretenimento #naveg-left .entretenimento a,
+#contato #naveg-left .contato a
+{background: #44cade; color: #085662;}
+
+
+
